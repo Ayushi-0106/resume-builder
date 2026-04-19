@@ -1,6 +1,6 @@
 class AuthManager {
     constructor() {
-        this.apiBase = 'http://localhost:5000/api';
+        this.apiBase = 'https://resume-builder-myj2.onrender.com';
         this.currentUser = null;
         this.token = localStorage.getItem('authToken');
         // Restore user from storage if available
