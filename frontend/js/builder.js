@@ -1,6 +1,6 @@
 class ResumeBuilder {
     constructor() {
-        this.apiBase = 'http://localhost:5000/api';
+        this.apiBase = 'https://resume-builder-myj2.onrender.com/api';
         this.token = localStorage.getItem('authToken');
         this.currentResumeId = null;
         this.resumeData = {

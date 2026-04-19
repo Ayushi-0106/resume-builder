@@ -16,7 +16,7 @@ app.config['JWT_SECRET_KEY'] = os.getenv('JWT_SECRET', 'your-secret-key-here')
 app.config['JWT_ACCESS_TOKEN_EXPIRES'] = timedelta(hours=24)
 
 jwt = JWTManager(app)
-CORS(app, origins="*", supports_credentials=True)
+CORS(app)
 
 # File-based storage
 storage = FileStorage()

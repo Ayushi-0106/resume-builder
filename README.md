@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 AI Resume Builder
 
 A modern, AI-powered resume builder that helps you create professional resumes with intelligent suggestions and multiple beautiful templates.
@@ -186,3 +187,7 @@ If you encounter any issues:
 ---
 
 **Made with ❤️ for job seekers everywhere**
+=======
+# resume-builder
+AI Resume Builder using Flask (backend) and HTML/CSS/JS (frontend) with AI suggestions and PDF generation.
+>>>>>>> e523d4aad8755e0386587d6af11b456520ee9b20
