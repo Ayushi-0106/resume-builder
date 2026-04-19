@@ -1,0 +1,9 @@
+[
+  {
+    "id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "email": "ayushi@gmail.com",
+    "password": "pbkdf2:sha256:600000$2LaeZnwBCxFU2DDZ$34852dff290ca0aaa5024312c3743355e9c669896fd4354d92ae44b87bb420a0",
+    "name": "Ayushi",
+    "created_at": "2025-09-13T07:44:33.094463"
+  }
+]

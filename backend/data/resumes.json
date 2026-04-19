@@ -1,0 +1,1950 @@
+[
+  {
+    "id": "0bf1389c-5f64-4430-99f4-2444df378a0c",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "rud@gmail.com",
+      "phone": "2851522525",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "Final Year CSE Student",
+    "experience": [
+      {
+        "id": "1757749540455",
+        "title": "Soft Dev",
+        "company": "JECRC",
+        "startDate": "2025-05",
+        "endDate": "2025-09",
+        "description": "ML Intern"
+      }
+    ],
+    "education": [
+      {
+        "id": "1757749585754",
+        "degree": "B.tech",
+        "institution": "JECRC University",
+        "graduationYear": "2026",
+        "gpa": "8.5"
+      }
+    ],
+    "skills": [
+      "JAVA",
+      "Python",
+      "HTML",
+      "CSS",
+      "JS"
+    ],
+    "projects": [
+      {
+        "id": "1757749630284",
+        "name": "e-Commerce Project",
+        "technologies": "HTML, CSS",
+        "description": ""
+      }
+    ],
+    "template": "professional",
+    "created_at": "2025-09-13T07:47:41.095643",
+    "updated_at": "2025-09-13T07:47:41.095669"
+  },
+  {
+    "id": "213ba87c-c8d3-49bf-b5dd-a6e4c306df65",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T07:47:44.513506",
+    "updated_at": "2025-09-13T07:47:44.513535"
+  },
+  {
+    "id": "0b5df04c-8552-40da-86a9-edda3cc0f4db",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T07:47:48.839371",
+    "updated_at": "2025-09-13T07:47:48.839393"
+  },
+  {
+    "id": "077e6b60-e3c4-4b48-abf7-3c5c57e24282",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T07:47:58.084518",
+    "updated_at": "2025-09-13T07:47:58.084543"
+  },
+  {
+    "id": "6008863e-6031-4058-b6e6-09f4ea07eb91",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T07:48:01.469619",
+    "updated_at": "2025-09-13T07:48:01.469650"
+  },
+  {
+    "id": "fcfd5293-c438-431c-98c5-28841dd77a72",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T07:48:28.408839",
+    "updated_at": "2025-09-13T07:48:28.408874"
+  },
+  {
+    "id": "46cefc87-f2c2-4500-9f4e-d3e8bb134844",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T07:48:42.139372",
+    "updated_at": "2025-09-13T07:48:42.139399"
+  },
+  {
+    "id": "c1087110-fc5e-4119-99cd-8310a6a22abd",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ankit ",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T07:49:11.917875",
+    "updated_at": "2025-09-13T07:49:11.917896"
+  },
+  {
+    "id": "d8c66aac-4769-4344-9537-bb5f5c78c4f9",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T07:49:14.650501",
+    "updated_at": "2025-09-13T07:49:14.650757"
+  },
+  {
+    "id": "21c80add-f41f-46eb-8de2-dfb9531c875e",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "rud@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "Final Year Stu",
+    "experience": [
+      {
+        "id": "1757749880566",
+        "title": "Software Developer",
+        "company": "JECRC",
+        "startDate": "2025-01",
+        "endDate": "2025-06",
+        "description": "ERP developer"
+      }
+    ],
+    "education": [
+      {
+        "id": "1757749924491",
+        "degree": "B.tech",
+        "institution": "JECRC University",
+        "graduationYear": "2026",
+        "gpa": "8.5"
+      }
+    ],
+    "skills": [
+      "JAVA",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "projects": [
+      {
+        "id": "1757749966673",
+        "name": "E-commerce site",
+        "technologies": "HTML, CSS",
+        "description": "Build in Hackathon"
+      }
+    ],
+    "template": "modern",
+    "created_at": "2025-09-13T07:53:18.492555",
+    "updated_at": "2025-09-13T07:53:18.492575"
+  },
+  {
+    "id": "f06ea1b9-7333-461c-aad1-f53693b82218",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "final year CSE",
+    "experience": [
+      {
+        "id": "1757750425060",
+        "title": "SD",
+        "company": "JECRC",
+        "startDate": "2025-01",
+        "endDate": "2025-06",
+        "description": ""
+      }
+    ],
+    "education": [
+      {
+        "id": "1757750434026",
+        "degree": "B.tech",
+        "institution": "JECRC University",
+        "graduationYear": "2026",
+        "gpa": "8.5"
+      }
+    ],
+    "skills": [
+      "JAVA",
+      "python"
+    ],
+    "projects": [
+      {
+        "id": "1757750452624",
+        "name": "E-commerce site",
+        "technologies": "",
+        "description": "Build in Hackathon"
+      }
+    ],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:00:59.269487",
+    "updated_at": "2025-09-13T08:00:59.269518"
+  },
+  {
+    "id": "aa978c68-1f41-4cfa-90d5-0df44956d496",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:01:25.832021",
+    "updated_at": "2025-09-13T08:01:25.832045"
+  },
+  {
+    "id": "3999c2cc-f62b-445a-a91b-10931e07b3d4",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:01:27.341199",
+    "updated_at": "2025-09-13T08:01:27.341215"
+  },
+  {
+    "id": "fb91303f-f8e8-41a2-ba5b-c62208b9331d",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:01:28.906585",
+    "updated_at": "2025-09-13T08:01:28.906603"
+  },
+  {
+    "id": "024a9838-a45a-4b94-be4c-3e1466e26ce1",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:01:30.238704",
+    "updated_at": "2025-09-13T08:01:30.238723"
+  },
+  {
+    "id": "5919ad60-5213-4fd2-98ed-e8e30a13aab3",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:01:31.848376",
+    "updated_at": "2025-09-13T08:01:31.848395"
+  },
+  {
+    "id": "6a4c480b-94a5-4325-8db7-5af0db5eff92",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:01:32.793139",
+    "updated_at": "2025-09-13T08:01:32.793154"
+  },
+  {
+    "id": "27bf537f-4a87-4f6a-9c5a-dcb95cbd314d",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:03:52.809387",
+    "updated_at": "2025-09-13T08:03:52.809428"
+  },
+  {
+    "id": "54682fe9-68b5-4b73-88f5-1cde06b1eacb",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:05:29.066761",
+    "updated_at": "2025-09-13T08:05:29.066773"
+  },
+  {
+    "id": "8dceea37-4d0c-4252-8d8b-a0f8ecae94cf",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:05:30.763994",
+    "updated_at": "2025-09-13T08:05:30.764009"
+  },
+  {
+    "id": "a22845a5-8503-4dd6-9517-f8afc9a12313",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [
+      {
+        "id": "1757750754423",
+        "title": "SD",
+        "company": "JECRC",
+        "startDate": "",
+        "endDate": "",
+        "description": ""
+      }
+    ],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:06:03.303183",
+    "updated_at": "2025-09-13T08:06:03.303198"
+  },
+  {
+    "id": "51251ee3-16ab-465d-acdf-ca77843f3068",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:06:10.083660",
+    "updated_at": "2025-09-13T08:06:10.083675"
+  },
+  {
+    "id": "5c8cf21c-c588-4910-98c8-65bdb3eb0a27",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:06:21.042963",
+    "updated_at": "2025-09-13T08:06:21.042977"
+  },
+  {
+    "id": "1dee7d05-354d-46d0-b16d-9e6c00c395e6",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:06:57.200301",
+    "updated_at": "2025-09-13T08:06:57.200319"
+  },
+  {
+    "id": "67b73ba3-9d57-4ae3-a50f-c877fe6052db",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:07:13.598629",
+    "updated_at": "2025-09-13T08:07:13.598647"
+  },
+  {
+    "id": "54c50c36-6ce3-4ba0-9260-a9b2679376d5",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:00.854013",
+    "updated_at": "2025-09-13T08:08:00.854029"
+  },
+  {
+    "id": "8123e125-1434-4182-8640-d6cbbb4483e7",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:02.611886",
+    "updated_at": "2025-09-13T08:08:02.611906"
+  },
+  {
+    "id": "3484d6a1-47c0-4607-9c3c-59b69833a014",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:03.361822",
+    "updated_at": "2025-09-13T08:08:03.361865"
+  },
+  {
+    "id": "e5a0d4d2-9f54-4138-9c7f-6a6992c6c300",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:04.211208",
+    "updated_at": "2025-09-13T08:08:04.211223"
+  },
+  {
+    "id": "f784eba1-42d5-4b3a-a8e9-44f99f23d0e0",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:04.810497",
+    "updated_at": "2025-09-13T08:08:04.810520"
+  },
+  {
+    "id": "1eceb6c0-cd3f-4390-a5bf-488985c2e105",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:05.406195",
+    "updated_at": "2025-09-13T08:08:05.406213"
+  },
+  {
+    "id": "4fe72c09-2dea-4d11-942c-adbb2dd13a69",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:05.505920",
+    "updated_at": "2025-09-13T08:08:05.505942"
+  },
+  {
+    "id": "8b043a3e-c4ab-4b27-bec0-71f97725b367",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:06.252722",
+    "updated_at": "2025-09-13T08:08:06.252737"
+  },
+  {
+    "id": "6ae9e831-0718-4c3a-a3ac-2a42d87008f9",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:07.186210",
+    "updated_at": "2025-09-13T08:08:07.186227"
+  },
+  {
+    "id": "899e5eab-9fd9-4227-9d9f-6702ead6ef37",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:08.155990",
+    "updated_at": "2025-09-13T08:08:08.156010"
+  },
+  {
+    "id": "cc2e0049-57f8-49cb-b7bc-674f646d7f93",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:09.128361",
+    "updated_at": "2025-09-13T08:08:09.128385"
+  },
+  {
+    "id": "0f6af135-862a-41e6-a2e6-a1e9dd6dd161",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:10.371556",
+    "updated_at": "2025-09-13T08:08:10.371577"
+  },
+  {
+    "id": "db49d8f7-2496-42f7-9db7-597d009d1d14",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:11.251836",
+    "updated_at": "2025-09-13T08:08:11.251854"
+  },
+  {
+    "id": "e4b5ce3a-1b57-4929-8fdf-07597239a5b0",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:12.172996",
+    "updated_at": "2025-09-13T08:08:12.173014"
+  },
+  {
+    "id": "1248a987-ec02-47bd-9365-5b7dddae1ec8",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:13.101640",
+    "updated_at": "2025-09-13T08:08:13.101656"
+  },
+  {
+    "id": "d42ee4ce-51ae-4660-b493-bdad508c4487",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:28.549359",
+    "updated_at": "2025-09-13T08:08:28.549374"
+  },
+  {
+    "id": "ddd5d659-5eb6-4b71-810b-445180097c08",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:08:29.469346",
+    "updated_at": "2025-09-13T08:08:29.469364"
+  },
+  {
+    "id": "9f421161-c63e-4090-af1b-a18774125219",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "Final Year  CSE Student",
+    "experience": [
+      {
+        "id": "1757751209361",
+        "title": "SD",
+        "company": "JECRC",
+        "startDate": "2025-05",
+        "endDate": "2025-06",
+        "description": "ML Intern"
+      }
+    ],
+    "education": [
+      {
+        "id": "1757751229013",
+        "degree": "B.tech",
+        "institution": "JECRC University",
+        "graduationYear": "2026",
+        "gpa": "8.5"
+      }
+    ],
+    "skills": [
+      "JAVA",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "projects": [
+      {
+        "id": "1757751244154",
+        "name": "e-Commerce Project",
+        "technologies": "HTML, CSS",
+        "description": "ML Intern"
+      }
+    ],
+    "template": "professional",
+    "created_at": "2025-09-13T08:14:21.538446",
+    "updated_at": "2025-09-13T08:14:21.538464"
+  },
+  {
+    "id": "371d2d59-25fc-45ff-8a8d-0f2acece0780",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:14:29.343883",
+    "updated_at": "2025-09-13T08:14:29.343902"
+  },
+  {
+    "id": "7abfb7f8-bf61-4a59-8b54-f5cf662d2f44",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:14:31.069578",
+    "updated_at": "2025-09-13T08:14:31.069598"
+  },
+  {
+    "id": "df105e5c-ddb3-4d14-b905-9837c4f445d4",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:14:33.279841",
+    "updated_at": "2025-09-13T08:14:33.279855"
+  },
+  {
+    "id": "d44bebcc-6c90-41bd-aeae-2f84117d7a73",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:14:34.919266",
+    "updated_at": "2025-09-13T08:14:34.919284"
+  },
+  {
+    "id": "801e2e97-4237-49b2-8a45-ada6df6dfb3b",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:14:36.863552",
+    "updated_at": "2025-09-13T08:14:36.863566"
+  },
+  {
+    "id": "19f7516e-2d83-4873-ba6f-b711bf391d9b",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:14:42.601885",
+    "updated_at": "2025-09-13T08:14:42.601899"
+  },
+  {
+    "id": "2b5c1c8b-7438-4949-80f5-bbe0868f319d",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:14:48.600768",
+    "updated_at": "2025-09-13T08:14:48.600792"
+  },
+  {
+    "id": "57f60cbf-b679-4a78-852a-566c2aaf43fc",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:14:50.626821",
+    "updated_at": "2025-09-13T08:14:50.626846"
+  },
+  {
+    "id": "ea30336b-d4ac-43bb-bdd6-de074ed3ee13",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:15:14.986821",
+    "updated_at": "2025-09-13T08:15:14.986840"
+  },
+  {
+    "id": "16390e96-a9b9-4401-8e6d-633c2f1c6d61",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:15:16.715437",
+    "updated_at": "2025-09-13T08:15:16.715451"
+  },
+  {
+    "id": "f58f2984-c21e-43e2-aa88-fe8410ec6c50",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:15:17.658610",
+    "updated_at": "2025-09-13T08:15:17.658630"
+  },
+  {
+    "id": "19e2eb03-e9d9-4cdc-9206-04de5337c107",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:15:18.538165",
+    "updated_at": "2025-09-13T08:15:18.538188"
+  },
+  {
+    "id": "a8ce76ba-5c59-4999-9cf2-813b85f77002",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:15:19.325026",
+    "updated_at": "2025-09-13T08:15:19.325042"
+  },
+  {
+    "id": "d1143755-0fad-4f98-9f96-6391feca3423",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:15:20.472459",
+    "updated_at": "2025-09-13T08:15:20.472474"
+  },
+  {
+    "id": "587fd294-22be-4df5-a256-ad965a3482e1",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "SD ",
+    "experience": [
+      {
+        "id": "1757752012797",
+        "title": "SE",
+        "company": "JECRC",
+        "startDate": "2025-02",
+        "endDate": "2025-05",
+        "description": ""
+      }
+    ],
+    "education": [
+      {
+        "id": "1757752026753",
+        "degree": "B.tech",
+        "institution": "JECRC University",
+        "graduationYear": "2026",
+        "gpa": "8.5"
+      }
+    ],
+    "skills": [
+      "JAva"
+    ],
+    "projects": [
+      {
+        "id": "1757752035813",
+        "name": "e-Commerce Project",
+        "technologies": "HTML, CSS",
+        "description": ""
+      }
+    ],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:27:19.729590",
+    "updated_at": "2025-09-13T08:27:19.729913"
+  },
+  {
+    "id": "f188b944-c057-4764-8645-0bc336ffb030",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:27:32.599527",
+    "updated_at": "2025-09-13T08:27:32.599549"
+  },
+  {
+    "id": "94888c5e-9a0e-4733-92fa-daae84acbaaf",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:27:36.683859",
+    "updated_at": "2025-09-13T08:27:36.683885"
+  },
+  {
+    "id": "87dd5506-9ce5-4cc7-9a66-9dd32e145d6c",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "584714692",
+      "location": "Jaipur"
+    },
+    "summary": "SWE",
+    "experience": [
+      {
+        "id": "1757752145322",
+        "title": "SWE",
+        "company": "Jecrc",
+        "startDate": "2025-02",
+        "endDate": "2025-06",
+        "description": ""
+      }
+    ],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:29:29.389593",
+    "updated_at": "2025-09-13T08:29:29.389611"
+  },
+  {
+    "id": "be2f364e-b419-47d8-87b8-c521ba4d4c2d",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:29:32.998451",
+    "updated_at": "2025-09-13T08:29:32.998470"
+  },
+  {
+    "id": "214d1573-e4f4-4aec-b7b3-992174518893",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:29:34.945691",
+    "updated_at": "2025-09-13T08:29:34.945714"
+  },
+  {
+    "id": "16fd7703-4625-46db-921f-b921ad8b6039",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:29:38.860627",
+    "updated_at": "2025-09-13T08:29:38.860662"
+  },
+  {
+    "id": "154529d5-7793-4ab9-8be7-b23cc5dfc173",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:29:43.281574",
+    "updated_at": "2025-09-13T08:29:43.281594"
+  },
+  {
+    "id": "0c6dc635-5707-4315-a941-a118ad53a20e",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:29:44.571902",
+    "updated_at": "2025-09-13T08:29:44.571924"
+  },
+  {
+    "id": "1c3aa390-d685-489c-8873-12eccb21889b",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:46:33.578206",
+    "updated_at": "2025-09-13T08:46:33.578232"
+  },
+  {
+    "id": "75846ed7-072a-407e-9be5-508b11a95ece",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:46:39.675332",
+    "updated_at": "2025-09-13T08:46:39.675352"
+  },
+  {
+    "id": "e5b1fb31-266b-4841-add1-859b690e517b",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:48:03.179187",
+    "updated_at": "2025-09-13T08:48:03.179203"
+  },
+  {
+    "id": "ffa36832-b484-4f1a-a9a4-095b5fb1fdde",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:48:20.386755",
+    "updated_at": "2025-09-13T08:48:20.386774"
+  },
+  {
+    "id": "a5409421-1090-4ff1-a1f2-f3645d4365d7",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:51:10.717889",
+    "updated_at": "2025-09-13T08:51:10.717914"
+  },
+  {
+    "id": "b5b38c9f-5881-457f-9f4c-7fe9eebedeae",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:51:27.004563",
+    "updated_at": "2025-09-13T08:51:27.004582"
+  },
+  {
+    "id": "7e2752c4-c724-49e5-9e81-e25e615235ce",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:51:34.723035",
+    "updated_at": "2025-09-13T08:51:34.723045"
+  },
+  {
+    "id": "0854b1a1-30e3-413a-b50c-1baa5e94ac6c",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:51:42.170050",
+    "updated_at": "2025-09-13T08:51:42.170071"
+  },
+  {
+    "id": "65a3ffe8-825e-443b-9b18-b32bd6b64a00",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:55:32.646506",
+    "updated_at": "2025-09-13T08:55:32.646525"
+  },
+  {
+    "id": "d539278e-c2d0-41ff-8162-356270725a65",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "modern",
+    "created_at": "2025-09-13T08:55:47.179980",
+    "updated_at": "2025-09-13T08:55:47.179994"
+  },
+  {
+    "id": "8c4e3347-8a01-432a-81bb-dc987c73ce33",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T08:57:11.556901",
+    "updated_at": "2025-09-13T08:57:11.556919"
+  },
+  {
+    "id": "6f95998c-3926-47a4-bca7-2b9a1e9b2a27",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:01:39.447959",
+    "updated_at": "2025-09-13T09:01:39.447975"
+  },
+  {
+    "id": "526b076e-e2af-43a8-b18f-ff5cfc2f78f6",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "SHwfdwd",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:01:48.368770",
+    "updated_at": "2025-09-13T09:01:48.368787"
+  },
+  {
+    "id": "880044ba-5851-46e4-abca-97134b19fa2a",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:01:49.362152",
+    "updated_at": "2025-09-13T09:01:49.362166"
+  },
+  {
+    "id": "6076e8b2-b775-4051-9166-b936133a332b",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:02:09.012162",
+    "updated_at": "2025-09-13T09:02:09.012175"
+  },
+  {
+    "id": "6e6c8faf-fb04-45d8-8788-7adc28b338c7",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:02:10.300185",
+    "updated_at": "2025-09-13T09:02:10.300201"
+  },
+  {
+    "id": "d6688cc1-51ce-449e-99ba-a0c46a371bc1",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:02:14.551694",
+    "updated_at": "2025-09-13T09:02:14.551711"
+  },
+  {
+    "id": "ca327843-ac4f-48e4-b3bf-f7b5a21c815e",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:02:49.603100",
+    "updated_at": "2025-09-13T09:02:49.603115"
+  },
+  {
+    "id": "d2e2a71e-d47d-4722-8ba6-347083af8c15",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "",
+      "github": ""
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:03:24.465674",
+    "updated_at": "2025-09-13T09:03:24.465689"
+  },
+  {
+    "id": "25fd81c0-2b1e-4b13-85b3-7d08ccd79244",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:03:25.839407",
+    "updated_at": "2025-09-13T09:03:25.839421"
+  },
+  {
+    "id": "93ff4574-298a-4046-aa58-256ecbc4ff42",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "Final Year Student",
+    "experience": [
+      {
+        "id": "1757754583731",
+        "title": "Software Developer",
+        "company": "JECRC",
+        "startDate": "2025-02",
+        "endDate": "2025-06",
+        "description": "ERP Developer"
+      }
+    ],
+    "education": [
+      {
+        "id": "1757754611262",
+        "degree": "B.tech",
+        "institution": "JECRC University",
+        "graduationYear": "2026",
+        "gpa": "8.5"
+      }
+    ],
+    "skills": [
+      "Java",
+      "Python",
+      "HTML",
+      "CSS"
+    ],
+    "projects": [
+      {
+        "id": "1757754628725",
+        "name": "e-Commerce Project",
+        "technologies": "HTML, CSS",
+        "description": "Price"
+      }
+    ],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:10:47.341577",
+    "updated_at": "2025-09-13T09:10:47.341595"
+  },
+  {
+    "id": "d862920d-db43-4f25-99fe-26039fd64a6c",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:28:23.634936",
+    "updated_at": "2025-09-13T09:28:23.634959"
+  },
+  {
+    "id": "f881c185-f592-4efa-a90c-42cbb3ac0969",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:32:51.522145",
+    "updated_at": "2025-09-13T09:32:51.522173"
+  },
+  {
+    "id": "7bdcf04f-c0d8-4905-a8c7-d8c1ca3e5da0",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "mkewbkvh",
+    "experience": [
+      {
+        "id": "1757755983829",
+        "title": "s",
+        "company": "evbj",
+        "startDate": "",
+        "endDate": "",
+        "description": ""
+      }
+    ],
+    "education": [
+      {
+        "id": "1757755989361",
+        "degree": "B.tech",
+        "institution": "JECRC University",
+        "graduationYear": "2026",
+        "gpa": "8.5"
+      }
+    ],
+    "skills": [
+      "kje"
+    ],
+    "projects": [
+      {
+        "id": "1757755998889",
+        "name": "e-Commerce Project",
+        "technologies": "HTML, CSS",
+        "description": ""
+      }
+    ],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:33:27.734247",
+    "updated_at": "2025-09-13T09:33:27.734259"
+  },
+  {
+    "id": "5bc9ec71-33e7-470e-a72c-da5e684c4a99",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:51:08.189881",
+    "updated_at": "2025-09-13T09:51:08.189901"
+  },
+  {
+    "id": "f04dd0b4-2979-4898-b5a4-e07f2e4a762f",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:51:36.465618",
+    "updated_at": "2025-09-13T09:51:36.465629"
+  },
+  {
+    "id": "6a2fe567-13f3-471d-8157-627e9b090f8f",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:51:47.925567",
+    "updated_at": "2025-09-13T09:51:47.925577"
+  },
+  {
+    "id": "eb4e5ded-f059-4e2d-b7f4-0077f42acbfc",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "SDE",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:51:59.512104",
+    "updated_at": "2025-09-13T09:51:59.512110"
+  },
+  {
+    "id": "938c7cb2-be0c-4acf-8471-de037f13256d",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:52:05.049412",
+    "updated_at": "2025-09-13T09:52:05.049418"
+  },
+  {
+    "id": "771eb2bd-9cd8-402a-bf75-9cde1bfb3644",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi",
+      "email": "ayushi@gmail.com",
+      "phone": "5784445854",
+      "location": "Jaipur",
+      "linkedin": "https:linkdein.com",
+      "github": "https.gtihuub.com"
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2025-09-13T09:52:31.469020",
+    "updated_at": "2025-09-13T09:52:31.469028"
+  },
+  {
+    "id": "c96f0c8a-7aaa-4d54-bf65-165e13cd11db",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi Kumari",
+      "email": "ayushi636167@gmail.com",
+      "phone": "+91 9263464694",
+      "location": "Jaipur, Rajasthan",
+      "linkedin": "ghvuihewiiwj4",
+      "github": "gewu4lEFIBGJ"
+    },
+    "summary": "yuihudgiufgia",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2026-04-19T10:38:34.403284",
+    "updated_at": "2026-04-19T10:38:34.403683"
+  },
+  {
+    "id": "e36cbdde-cc2a-48e9-8d9d-cd45686175cf",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {},
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2026-04-19T10:38:46.847871",
+    "updated_at": "2026-04-19T10:38:46.847886"
+  },
+  {
+    "id": "78685b77-e810-43ce-9e7e-c9ade7a50915",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi Kumari",
+      "email": "ayushi636167@gmail.com",
+      "phone": "+91 9263464694",
+      "location": "Jaipur, Rajasthan",
+      "linkedin": "ghvuihewiiwj4",
+      "github": "gewu4lEFIBGJ"
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2026-04-19T10:38:56.832768",
+    "updated_at": "2026-04-19T10:38:56.832779"
+  },
+  {
+    "id": "758bf5cf-ae42-4588-b4f6-d97bba61de70",
+    "user_id": "55006c57-e3e9-4c3b-9fab-3312828e94c5",
+    "title": "Untitled Resume",
+    "personal_info": {
+      "name": "Ayushi Kumari",
+      "email": "ayushi636167@gmail.com",
+      "phone": "+91 9263464694",
+      "location": "Jaipur, Rajasthan",
+      "linkedin": "ghvuihewiiwj4",
+      "github": "gewu4lEFIBGJ"
+    },
+    "summary": "",
+    "experience": [],
+    "education": [],
+    "skills": [],
+    "projects": [],
+    "template": "minimal",
+    "created_at": "2026-04-19T11:15:40.309520",
+    "updated_at": "2026-04-19T11:15:40.310243"
+  }
+]

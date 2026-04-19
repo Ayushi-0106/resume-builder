@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Resume - {{ resume.personal_info.name or 'Your Name' }}</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            margin: 0;
+            padding: 30px;
+            line-height: 1.6;
+            color: #2c3e50;
+            background: white;
+        }
+        .header {
+            border-bottom: 3px solid #34495e;
+            padding-bottom: 25px;
+            margin-bottom: 35px;
+        }
+        .name {
+            font-size: 32px;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #2c3e50;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .contact {
+            font-size: 14px;
+            color: #7f8c8d;
+            margin-bottom: 5px;
+        }
+        .contact a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section-title {
+            font-size: 20px;
+            font-weight: bold;
+            border-bottom: 2px solid #bdc3c7;
+            margin-bottom: 18px;
+            color: #34495e;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .item {
+            margin-bottom: 20px;
+            padding-left: 15px;
+            border-left: 3px solid #ecf0f1;
+        }
+        .item-title {
+            font-weight: bold;
+            font-size: 16px;
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        .item-subtitle {
+            color: #7f8c8d;
+            font-style: italic;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+        .item-date {
+            color: #95a5a6;
+            float: right;
+            font-weight: 500;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .skill {
+            background: #ecf0f1;
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 500;
+            color: #2c3e50;
+        }
+        .summary {
+            font-style: italic;
+            text-align: justify;
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-left: 4px solid #3498db;
+            font-size: 15px;
+            line-height: 1.7;
+        }
+        .project-item {
+            margin-bottom: 15px;
+        }
+        .project-technologies {
+            color: #7f8c8d;
+            font-size: 13px;
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="name">{{ resume.personal_info.name or 'Your Name' }}</div>
+        <div class="contact">
+            {% if resume.personal_info.email %}{{ resume.personal_info.email }} | {% endif %}
+            {% if resume.personal_info.phone %}{{ resume.personal_info.phone }} | {% endif %}
+            {% if resume.personal_info.location %}{{ resume.personal_info.location }}{% endif %}
+        </div>
+        {% if resume.personal_info.linkedin or resume.personal_info.github %}
+        <div class="contact">
+            {% if resume.personal_info.linkedin %}<a href="{{ resume.personal_info.linkedin }}">LinkedIn</a>{% endif %}
+            {% if resume.personal_info.linkedin and resume.personal_info.github %} | {% endif %}
+            {% if resume.personal_info.github %}<a href="{{ resume.personal_info.github }}">GitHub</a>{% endif %}
+        </div>
+        {% endif %}
+    </div>
+    
+    {% if resume.summary %}
+    <div class="summary">
+        {{ resume.summary }}
+    </div>
+    {% endif %}
+    
+    {% if resume.experience %}
+    <div class="section">
+        <div class="section-title">Professional Experience</div>
+        {% for exp in resume.experience %}
+        <div class="item">
+            <div class="item-title">{{ exp.title or 'Job Title' }}</div>
+            <div class="item-subtitle">
+                {{ exp.company or 'Company' }} 
+                <span class="item-date">{{ exp.startDate or 'Start' }} - {{ exp.endDate or 'Present' }}</span>
+            </div>
+            <div>{{ exp.description or 'Description' }}</div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+    
+    {% if resume.education %}
+    <div class="section">
+        <div class="section-title">Education</div>
+        {% for edu in resume.education %}
+        <div class="item">
+            <div class="item-title">{{ edu.degree or 'Degree' }}</div>
+            <div class="item-subtitle">
+                {{ edu.institution or 'Institution' }} 
+                <span class="item-date">{{ edu.graduationYear or 'Year' }}</span>
+            </div>
+            {% if edu.gpa %}<div style="color: #7f8c8d; font-size: 14px;">GPA: {{ edu.gpa }}</div>{% endif %}
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+    
+    {% if resume.skills %}
+    <div class="section">
+        <div class="section-title">Skills</div>
+        <div class="skills">
+            {% for skill in resume.skills %}
+            <span class="skill">{{ skill }}</span>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+    
+    {% if resume.projects %}
+    <div class="section">
+        <div class="section-title">Projects</div>
+        {% for project in resume.projects %}
+        <div class="project-item">
+            <div class="item-title">{{ project.name or 'Project Name' }}</div>
+            <div class="project-technologies">{{ project.technologies or 'Technologies' }}</div>
+            <div>{{ project.description or 'Description' }}</div>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+</body>
+</html>
